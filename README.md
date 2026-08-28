@@ -102,13 +102,6 @@ It explores DAS, MVDR, CMF, and SODIX beamforming algorithms with comparison vie
 
 `Python` · `Streamlit` · `Acoular` · `NumPy` · `Signal Processing`
 
-### 🎬 [AutoClip MVP — exploration fork](https://github.com/varunmhub/autoclip_mvp)
-
-Exploring an AI-assisted workflow for video analysis, automatic clipping, subtitle processing, and
-collection generation.
-
-`Python` · `FastAPI` · `React` · `TypeScript` · `Docker`
-
 ## GitHub dashboard
 
 <div align="center">
