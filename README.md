@@ -78,6 +78,23 @@ and replaces every multiply with a shift-and-decode operation.
 
 `Verilog-2001` · `Vivado` · `XSim` · `Artix-7` · `Static Timing Analysis` · `Python/NumPy`
 
+### 🔐 [Random Password Generator on 8051](https://github.com/varunmhub/8051-random-password-generator) — AT89S52 firmware with 16x2 LCD
+
+A standalone, fully offline hardware password generator. A debounced button press samples the
+free-running Timer 0 registers to index a 68-character alphabet and prints an 8-character password
+to a 16x2 LCD in roughly 400 ms. Includes the full firmware, hardware wiring reference, and the
+academic project report.
+
+| | |
+| --- | --- |
+| Microcontroller | AT89S52, 11.0592 MHz crystal |
+| Entropy source | Free-running Timer 0, ~921,600 ticks/s, sampled at press time |
+| Output | 8 characters from A–Z, a–z, 0–9, `@#$%&*` on an HD44780 16x2 LCD |
+| Latency | **~400 ms** press-to-full-password |
+| Interfaces | 8-bit LCD data bus on Port 1, control on P2.4–P2.6, button on P0.0 |
+
+`Embedded C` · `AT89S52 / 8051` · `Keil µVision C51` · `HD44780 LCD` · `Timer 0` · `7805 power supply`
+
 ### 🔊 [Aeroacoustic Beamforming Suite](https://github.com/varunmhub/beamforming-app)
 
 A Streamlit application for localizing noise sources from multichannel microphone-array recordings.
