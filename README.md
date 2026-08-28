@@ -2,7 +2,7 @@
 
 # Hi, I'm Muppidi Varun 👋
 
-### ECE undergrad working in VLSI and FPGA design — RTL, verification, and timing closure
+### ECE undergrad · VLSI & FPGA · Verilog RTL, Vivado, Cadence Virtuoso, Keil · building a DSP-free 4-bit CNN accelerator on Artix-7
 
 [![GitHub](https://img.shields.io/badge/GitHub-varunmhub-181717?style=for-the-badge&logo=github)](https://github.com/varunmhub)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-2783DE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ugs23047_ece.varun@cbit.org.in)
